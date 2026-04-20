@@ -99,7 +99,7 @@ I focus on learning through practical implementation and continuously improving 
 
 ## 📫 Connect with Me
 
-* 📧 Email: [your-email@example.com](mailto:jaydeepgavare16@gmail.com)
+* 📧 Email: jaydipgavare16@gmail.com
 * 💼 LinkedIn: www.linkedin.com/in/jaydipgavare
 
 
