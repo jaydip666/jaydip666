@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Jaydeep Gavare
 
-🎓 BCA (Hons.) Student | 💻 Aspiring Full-Stack Developer
+🎓 BCA (Hons.) Student | 💻 Aspiring AI- Auomatuon Devloper
 🚀 Building Web Projects & Actively Seeking Internship Opportunities
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a Bachelor of Computer Application (BCA) student at **Sardar Vallabhbhai Global University (SVGU)**, specializing in Full-Stack Development.
+I am a Bachelor of Computer Application with Honrs.(BCA) student at **Sardar Vallabhbhai Global University (SVGU)**, specializing in Full-Stack Development.
 
 I have hands-on experience building real-world web applications using **React, Django, Python, and MongoDB**.
 
